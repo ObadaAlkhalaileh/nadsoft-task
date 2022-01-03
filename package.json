@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.24.0",
+    "bin-converter": "^1.1.2",
     "dotenv": "^10.0.0",
     "express": "^4.17.2",
     "mysql2": "^2.3.3"
