@@ -1,5 +1,5 @@
 -- activate line 2 in case this file has been executed once before
-DROP DATABASE countries_info;
+-- DROP DATABASE countries_info;
 
 CREATE DATABASE countries_info;
 
